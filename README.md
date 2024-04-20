@@ -1,5 +1,8 @@
-### Hi there 👋
+### Greetings! 👋
 
+I am Roman Voronov, a multiclass of an analyst 📊 and a programmer 💻.
+
+[![Telegram Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/rioran)](https://www.t.me/rioran)
 <!--
 **Rioran/Rioran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
