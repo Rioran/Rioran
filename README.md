@@ -6,12 +6,8 @@ Since 2022 I am located in Armenia 🇦🇲.
 
 I speak: native 🇷🇺, fluently 🇺🇸, beginner level 🇦🇲 / 🇪🇸 / 🇩🇪.
 
-[
-  ![Telegram Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/rioran)
-](https://www.t.me/rioran)
-[
-  ![LinkedIn Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rioran/)
-](https://www.linkedin.com/in/rioran/)
+[![Telegram Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/rioran)](https://www.t.me/rioran)
+[![LinkedIn Badge](https://img.shields.io/badge/-Roman%20Voronov-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rioran/)](https://www.linkedin.com/in/rioran/)
 
 Among numerous technologies I especially love:
 
@@ -22,15 +18,4 @@ Among numerous technologies I especially love:
 
 <!--
 **Rioran/Rioran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
