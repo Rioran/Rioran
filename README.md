@@ -6,8 +6,8 @@ I am Roman Voronov, a multiclass of an analyst 📊 and a programmer 💻. In my
 
 Among numerous technologies I especially love:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.github.com)](https://www.github.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rioran&count_private=true&show_icons=true&include_all_commits=true)
 
