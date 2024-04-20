@@ -6,7 +6,12 @@ Since 2022 I am located in Armenia 🇦🇲.
 
 I speak: native 🇷🇺, fluently 🇺🇸, beginner level 🇦🇲 / 🇪🇸 / 🇩🇪.
 
-[![Telegram Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/rioran)](https://www.t.me/rioran)
+[
+  ![Telegram Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/rioran)
+](https://www.t.me/rioran)
+[
+  ![LinkedIn Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rioran/)
+](https://www.linkedin.com/in/rioran/)
 
 Among numerous technologies I especially love:
 
