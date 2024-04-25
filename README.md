@@ -14,7 +14,7 @@ Among numerous technologies I especially love:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.github.com)](https://www.github.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rioran&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rioran&show_icons=true)
 
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Rioran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 
