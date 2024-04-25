@@ -16,7 +16,7 @@ Among numerous technologies I especially love:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rioran&show_icons=true)
 
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Rioran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Rioran&hide=Jupyter%20Notebook&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 
 <!--
 **Rioran/Rioran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
